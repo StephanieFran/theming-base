@@ -8,18 +8,17 @@ O desafio proposto foi substituir valores fixos de margin, padding e border-radi
 
 ## :hammer_and_wrench: Tecnologias
 Ferramentas usadas na construção do projeto:
-- [Node.js (v22.12.0)](<https://nodejs.org/en/>)
 - [React (v18.3.1)](https://18.react.dev/)
 - ReactDOM (v18.3.1)
 - [PropTypes (v15.8.1)](https://www.npmjs.com/package/prop-types)
+- [Styled-Components (v6.1.16)](https://styled-components.com/)
 
 Ferramentas usadas no desenvolvimento do projeto:
 - [VSCode (v1.97.0)](https://code.visualstudio.com/)
 - [Yarn (v1.22.22)](https://classic.yarnpkg.com/lang/en/)
-- [Babel (v7.26.8)](https://babeljs.io/)
-- [Webpack (v5.97.1)](https://webpack.js.org/)
-- [SASS (v1.85.0)](https://sass-lang.com/)
-- [Styled-Components (v6.1.15)](https://styled-components.com/)
+- [Babel (v7.26.10)](https://babeljs.io/)
+- [Webpack (v5.98.0)](https://webpack.js.org/)
+- [SASS (v1.86.0)](https://sass-lang.com/)
 
 ## :computer: Conceitos Abordados
 
