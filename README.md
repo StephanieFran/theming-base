@@ -11,14 +11,14 @@ Ferramentas usadas na construção do projeto:
 - [React (v18.3.1)](https://18.react.dev/)
 - ReactDOM (v18.3.1)
 - [PropTypes (v15.8.1)](https://www.npmjs.com/package/prop-types)
-- [Styled-Components (v6.4.1)](https://styled-components.com/)
+- [Styled-Components (v6.6.0)](https://styled-components.com/)
 
 Ferramentas usadas no desenvolvimento do projeto:
 - [VSCode (v1.119.0)](https://code.visualstudio.com/)
 - [Yarn (v1.22.22)](https://classic.yarnpkg.com/lang/en/)
 - [Babel (v7.29.0)](https://babeljs.io/)
-- [Webpack (v5.106.2)](https://webpack.js.org/)
-- [SASS (v1.99.0)](https://sass-lang.com/)
+- [Webpack (v5.112.2)](https://webpack.js.org/)
+- [SASS (v1.108.2)](https://sass-lang.com/)
 
 ## :computer: Conceitos Abordados
 
@@ -47,4 +47,4 @@ No navegador, abrir a URL:
 Stephanie de França
 
 ## Licenses
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+_NoLicense_
